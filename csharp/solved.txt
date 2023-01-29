@@ -1,1 +1,2 @@
 List of solved problems in C#:
+13 Roman Numerals - using a switch case appears to be a few ms faster than a dictionary
