@@ -1,4 +1,4 @@
 # List of problems currently solved
-## Easy
+## Easys
 ## Medium
 ## Hard
